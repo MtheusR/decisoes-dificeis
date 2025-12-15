@@ -1,0 +1,504 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Ter **hálito de peixe podre** ou ter **chulé de queijo estragado**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 2,
+      "texto": "Ter **dentes feitos de chiclete** ou **unhas feitas de vidro**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 3,
+      "texto": "Sempre que espirrar, **escapar um pum alto**, ou sempre que arrotar, **vomitar um pouquinho**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 4,
+      "texto": "Ter **mamilos do tamanho de dedos** ou **dedos do tamanho de mamilos**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 5,
+      "texto": "Suar **maionese** ou chorar **vinagre**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 6,
+      "texto": "Ter uma **cabeça gigante** (o dobro do tamanho) ou uma **cabeça minúscula** (metade do tamanho)?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 7,
+      "texto": "Ter **pelos no corpo todo** (estilo Chewbacca) ou **não ter nenhum pelo** (nem sobrancelha/cílios)?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 8,
+      "texto": "Ter **braços de T-Rex** (curtinhos) ou **pernas de flamingo** (finas e invertidas)?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 9,
+      "texto": "Ter **coceira eterna no ânus** ou ter a sensação de **algo preso no dente** para sempre?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 10,
+      "texto": "Ter uma **terceira perna funcional** ou um **terceiro braço saindo das costas**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 11,
+      "texto": "**Fazer xixi pedrinhas** ou **cagar líquido** para o resto da vida?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 12,
+      "texto": "Ter a **pele azul** (Smurf) ou ter a **pele verde** (Shrek)?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 13,
+      "texto": "Ter **olhos nas mãos** (estilo Labirinto do Fauno) ou **boca na barriga**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 14,
+      "texto": "Ter **cabelo que grita** quando você corta ou **grama que chora** quando você pisa?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 15,
+      "texto": "Só poder tomar banho com **água congelante** ou com **água fervendo**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 16,
+      "texto": "Ter **caspa de purpurina** eterna ou **cera de ouvido que escorre** visivelmente?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 17,
+      "texto": "Ter o **pescoço de uma girafa** ou o **nariz de um elefante**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 18,
+      "texto": "Ter **paladar nas mãos** (sentir gosto de tudo que toca) ou **não sentir gosto de nada** nunca mais?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 19,
+      "texto": "Ter **pés no lugar das mãos** ou **mãos no lugar dos pés**?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 20,
+      "texto": "Viver com o **nariz entupido** para sempre ou com **caganeira** toda manhã?",
+      "categoria": "Fator \"Nojeira e Corpo\""
+    },
+    {
+      "id": 21,
+      "texto": "**Rir alto em todo funeral** ou **chorar copiosamente em toda festa de aniversário**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 22,
+      "texto": "Ter seu **histórico de navegação publicado** no jornal ou ter todas as suas **fotos pelado(a) enviadas para sua mãe**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 23,
+      "texto": "**Casar com seu primo de 1º grau** ou **nunca poder ter relações sexuais** na vida?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 24,
+      "texto": "Ser pego **roubando em uma loja** ou ser pego **fazendo sexo no trabalho**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 25,
+      "texto": "**Falar tudo o que pensa** (sem filtro) ou **nunca mais poder falar**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 26,
+      "texto": "Ter que **usar fraldas visíveis** por cima da roupa ou ter que **usar uma chupeta** em reuniões de trabalho?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 27,
+      "texto": "**Arrotar o hino nacional** em toda entrevista de emprego ou **peidar sempre que beijar alguém**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 28,
+      "texto": "Ser famoso por **ser extremamente burro** ou ser um gênio **que ninguém conhece ou respeita**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 29,
+      "texto": "**Esquecer o nome de todos** logo após ser apresentado ou **chamar todos pelo nome do seu ex**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 30,
+      "texto": "Ter que **cumprimentar as pessoas lambendo a bochecha** ou **ser lambido** por todos que te cumprimentam?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 31,
+      "texto": "Ser **odiado por todos os cachorros** do mundo ou **ser amado loucamente por todos os pombos**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 32,
+      "texto": "**Passar um ano na cadeia** por um crime que não cometeu ou **entregar seu melhor amigo** que cometeu um crime?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 33,
+      "texto": "Ter um **orgasmo gritando \"MAMÃE\"** ou ter um orgasmo **com a voz do Pato Donald**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 34,
+      "texto": "**Nunca mais usar redes sociais** ou **ter que curtir e comentar todas as fotos da sua sogra**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 35,
+      "texto": "Ser o **vilão mais odiado** da história ou o **herói mais inútil**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 36,
+      "texto": "**Andar para trás** o resto da vida ou **ter que pular num pé só** sempre que se mover?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 37,
+      "texto": "Usar **roupas de palhaço** em todos os eventos sérios ou usar **roupas de gala** na praia/piscina?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 38,
+      "texto": "Ter que **pedir permissão para ir ao banheiro** para o seu chefe ou para sua mãe pelo resto da vida?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 39,
+      "texto": "**Saber a data exata da sua morte** ou **saber a causa da sua morte**?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 40,
+      "texto": "Ter um **clone maligno** solto por aí ou ter um **clone burro** que tenta te ajudar em tudo?",
+      "categoria": "Constrangimento Social e Moral"
+    },
+    {
+      "id": 41,
+      "texto": "Ser o **melhor do mundo em algo inútil** (ex: descascar amendoim) ou ser **medíocre em tudo o que é importante**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 42,
+      "texto": "Ganhar **US$ 1 milhão agora**, mas morrer em 10 anos, ou viver até os 100 anos **na pobreza**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 43,
+      "texto": "Ter que **ler em voz alta** tudo o que lê ou **escrever tudo** o que fala?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 44,
+      "texto": "**Reiniciar sua vida aos 10 anos** com todo o conhecimento de hoje ou **ganhar 100 milhões** e ter 60 anos amanhã?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 45,
+      "texto": "Ter um emprego onde você **não faz nada mas todos te odeiam**, ou trabalhar muito e **ninguém notar sua existência**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 46,
+      "texto": "Só poder usar **internet discada** (anos 90) ou só poder usar um **celular tijolão** (sem apps)?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 47,
+      "texto": "Ser o **motorista da família Bolsonaro** ou o **assessor de imprensa do goleiro Bruno**? (Adaptável ao contexto político atual).",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 48,
+      "texto": "Ter a inteligência de um **golfinho** (mas corpo humano) ou a inteligência de um **humano** (no corpo de um pombo)?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 49,
+      "texto": "Sempre **chegar 1 hora adiantado** e ter que esperar, ou sempre **chegar 1 hora atrasado**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 50,
+      "texto": "Ter o poder de **voar, mas a 2 km/h**, ou ficar **invisível, mas só quando ninguém está olhando**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 51,
+      "texto": "**Nunca mais ouvir música** ou **nunca mais assistir filmes/séries**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 52,
+      "texto": "Ter que **cantar para se comunicar** ou ter que **dançar para se locomover**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 53,
+      "texto": "Ser **atacado por um frango** toda vez que entrar no carro ou ser **seguido por um pato** que te julga?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 54,
+      "texto": "**Perder todo o seu dinheiro** ou **perder todas as suas memórias**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 55,
+      "texto": "Viver no mundo de **Harry Potter como um trouxa** ou no mundo de **Star Wars como um Jar Jar Binks**?",
+      "categoria": "Habilidades e Carreira (A vida medíocre)"
+    },
+    {
+      "id": 56,
+      "texto": "Dormir em uma cama de **lixo hospitalar** ou comer um prato de **cabelo do ralo**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 57,
+      "texto": "Ter **mãos de tesoura** (Edward) ou **pernas de pau**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 58,
+      "texto": "**Lutar contra 100 cavalos do tamanho de patos** ou contra **1 pato do tamanho de um cavalo**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 59,
+      "texto": "Viver o mesmo dia para sempre (**Feitiço do Tempo**) ou **não ter memória de curto prazo** (Amnésia)?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 60,
+      "texto": "Ter um **botão de \"Mute\"** para pessoas na vida real, mas você fica mudo também, ou um **botão de \"Pause\"**, mas você envelhece 2x mais rápido durante a pausa?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 61,
+      "texto": "Sentir **cheiro de pum** sempre que alguém mente ou sentir **gosto de sabão** sempre que alguém fala a verdade?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 62,
+      "texto": "Ter a **voz do Darth Vader** ou a **voz do Bob Esponja**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 63,
+      "texto": "Só poder **andar de quatro** ou só poder **andar plantando bananeira**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 64,
+      "texto": "Ser **alérgico ao sol** (vampiro reverso) ou ser **alérgico a água**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 65,
+      "texto": "Ter que **usar roupas molhadas** o tempo todo ou ter **uma pedra no sapato** o tempo todo?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 66,
+      "texto": "**Comer sua comida favorita** com gosto de cocô ou **comer cocô** com gosto da sua comida favorita?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 67,
+      "texto": "Ter **bifurcação na língua** ou **orelhas de elfo**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 68,
+      "texto": "Viver em uma **casa sem janelas** ou em uma **casa sem portas**?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 69,
+      "texto": "Ter um **papagaio que narra** tudo o que você faz de errado ou um **macaco que te joga frutas** aleatoriamente?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 70,
+      "texto": "**Nunca mais sentir dor física** (perigoso) ou **nunca mais sentir dor emocional** (psicopata)?",
+      "categoria": "O Absurdo e o Incômodo"
+    },
+    {
+      "id": 71,
+      "texto": "Namorar alguém que **não toma banho** ou alguém que **toma 10 banhos por dia** e reclama do seu cheiro?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 72,
+      "texto": "Seu parceiro(a) ter a **voz do seu pai/mãe** ou a **personalidade do seu pai/mãe**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 73,
+      "texto": "Ter o **rosto do seu parceiro tatuado na cara** ou o **nome dele tatuado na testa**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 74,
+      "texto": "**Ser pego se masturbando** pelo chefe ou **pegar seus pais fazendo 69**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 75,
+      "texto": "Ter **genitais que brilham no escuro** ou que **fazem som de buzina** quando tocados?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 76,
+      "texto": "Namorar uma pessoa **extremamente ciumenta** ou uma pessoa **que flerta com todo mundo** na sua frente?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 77,
+      "texto": "**Ser traído com seu pior inimigo** ou **ser traído com um palhaço de circo**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 78,
+      "texto": "Ter que **fazer sexo assistindo TV Senado** ou ouvindo **Baby Shark no repeat**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 79,
+      "texto": "Uma vida sexual **incrível sozinho**, mas ruim acompanhado, ou **incrível acompanhado**, mas impossível sozinho?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 80,
+      "texto": "**Nunca mais fazer sexo** ou **nunca mais comer sua comida favorita**?",
+      "categoria": "Relações e Intimidade (Focado no \"Hã?!\")"
+    },
+    {
+      "id": 81,
+      "texto": "**Salvar a vida de 100 estranhos** ou **salvar a vida do seu animal de estimação**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 82,
+      "texto": "Ter **chifres de verdade** ou uma **cauda de verdade**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 83,
+      "texto": "Viver no **passado sem tecnologia** ou no **futuro pós-apocalíptico**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 84,
+      "texto": "**Nunca mais usar sapatos** ou **nunca mais usar calças**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 85,
+      "texto": "Ser obrigado a **assassinar um inocente** ou **ser assassinado**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 86,
+      "texto": "Ter **visão de raio-x** (mas não poder desligar, vê esqueletos e velhos pelados) ou **super audição** (ouve tudo, inclusive pais transando a km de distância)?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 87,
+      "texto": "**Vomitar lesmas** (Ron Weasley) ou **chorar sangue** (vilão de anime)?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 88,
+      "texto": "Passar o resto da vida **em uma ilha deserta sozinho** ou **em uma prisão superlotada**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 89,
+      "texto": "Ter um **chip na cabeça** que toca anúncios a cada 10 minutos ou ter que **assistir 1h de propaganda** antes de dormir todo dia?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 90,
+      "texto": "Ser **mordido por um zumbi** ou **abduzido por aliens** (com sondas)?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 91,
+      "texto": "**Limpar banheiros químicos** com a língua ou **limpar esgoto** com as mãos nuas?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 92,
+      "texto": "Ter a **sensação de queda livre** sempre que tentar dormir ou a **sensação de afogamento** sempre que beber água?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 93,
+      "texto": "Ser um **fantasma que ninguém vê** ou um **zumbi que todos tentam matar**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 94,
+      "texto": "Ter **wi-fi grátis** onde for, mas é super lento, ou **internet ultra rápida**, mas custa R$ 100 por hora?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 95,
+      "texto": "**Sempre errar o buraco** (em tudo: chave, USB, sexo) ou **sempre tropeçar no último degrau**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 96,
+      "texto": "Ter o **cabelo do Trump** ou a **risada do Coringa**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 97,
+      "texto": "Viver em um filme de **terror slasher** ou em um filme de **drama depressivo**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 98,
+      "texto": "**Ser imortal** e ver o fim do universo ou **morrer amanhã** sem dor?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 99,
+      "texto": "**Nunca mais se classificar para a Copa** ou **perder de 7x1 para a Argentina na final, no Brasil**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    },
+    {
+      "id": 100,
+      "texto": "**Ter nascido no corpo do sexo oposto** ou **ter nascido 100 anos atrás**?",
+      "categoria": "Mix Final (Aleatórios e Pesados)"
+    }
+  ]
+}
